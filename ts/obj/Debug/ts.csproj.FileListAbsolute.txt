@@ -1,0 +1,24 @@
+C:\Users\andrey.pv12\Desktop\ts\ts\bin\Debug\ts.exe.config
+C:\Users\andrey.pv12\Desktop\ts\ts\bin\Debug\ts.exe
+C:\Users\andrey.pv12\Desktop\ts\ts\bin\Debug\ts.pdb
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.csproj.AssemblyReference.cache
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.Form1.resources
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.Properties.Resources.resources
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.csproj.GenerateResource.cache
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.csproj.CoreCompileInputs.cache
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.exe
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.pdb
+C:\Users\andrey.pv12\Desktop\ts\ts\obj\Debug\ts.Connect.resources
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\bin\Debug\ts.exe.config
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\bin\Debug\ts.exe
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\bin\Debug\ts.pdb
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.csproj.AssemblyReference.cache
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.csproj.SuggestedBindingRedirects.cache
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.Connect.resources
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.Form1.resources
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.Properties.Resources.resources
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.csproj.GenerateResource.cache
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.csproj.CoreCompileInputs.cache
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.exe
+C:\Users\allap\OneDrive\Рабочий стол\ts\ts\obj\Debug\ts.pdb
